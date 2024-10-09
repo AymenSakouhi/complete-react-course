@@ -1,5 +1,48 @@
 # React from 0 to Hero: 2-Day Professional Course
 
+This course will guide you through the basics of Linux and the command line interface (CLI). Below are the key requirements to get started.
+
+## Prerequisites for Linux + React:
+1. **Basic Computer Skills**: Familiarity with basic operations like file management, navigating through an operating system, and using software applications.
+2. **Access to a Linux Environment**: You will need access to a Linux system, which could be one of the following:
+   - A physical Linux machine.
+   - A Virtual Machine (VM) running Linux.
+   - Windows Subsystem for Linux (WSL) on a Windows machine.
+   - A cloud-based Linux environment (optional, but useful).
+
+3. **Terminal/CLI Access**: You need to know how to open and operate a terminal. This could be:
+   - A terminal emulator on Linux.
+   - Bash, Zsh, or other shell environments on macOS.
+   - WSL or PowerShell on Windows (with WSL installed).
+
+4. **Text Editor**: You'll need a text editor to work with shell scripts or code. Some recommended options:
+   - Terminal-based editors: Vim, Nano, Emacs.
+   - Graphical editors: Visual Studio Code (with extensions for Linux and shell), Sublime Text, or Atom.
+
+5. **No Prior Linux Experience Required**: This course is designed for beginners, so no prior knowledge of Linux or CLI is necessary, but enthusiasm and a willingness to learn are highly encouraged.
+
+6. ** NVM (Node Version Manager) or NPM (Node Package Manager) **: You will need these tools to manage Node.js versions.
+
+7. **Git**: You will need these tools to version control your code.
+
+
+---
+
+## Recommended Setup:
+- **VSCode (Visual Studio Code)**: If you're using VSCode, consider installing the following extensions for a smoother workflow:
+   - Remote - WSL (for WSL users).
+   - ShellCheck (for shell scripting).
+   - Markdown Preview Enhanced (if working with `.md` files).
+
+---
+
+By ensuring you have these tools and resources, you’ll be well-equipped to navigate through the course and become comfortable using Linux and the command line.
+
+---
+
+For more details and lessons, visit the [GitHub Repository](https://github.com/AymenSakouhi/complete-intro-to-linux-and-the-cli).
+
+
 ## Day 1: React Fundamentals (8 hours)
 
 ### Session 1: Introduction to React and Setting Up the Environment (1 hour)
